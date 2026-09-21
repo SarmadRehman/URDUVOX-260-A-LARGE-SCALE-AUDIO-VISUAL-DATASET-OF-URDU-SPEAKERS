@@ -155,7 +155,7 @@ UrduVox-260 is constructed using a multi-stage automated pipeline.
    Samples are retained when language, speaker segmentation, and visual identity are mutually consistent.
 
 <p align="center">
-  <img src="assets/image_pipeline_improved.png" width="760" alt="UrduVox-260 dataset scale overview">
+  <img src="assets/Image_pipeline_improved.png" width="760" alt="UrduVox-260 dataset scale overview">
 </p>
 
 
